@@ -1,4 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+[![github pages](https://github.com/iGEM-UGM/2020-wiki/workflows/github%20pages/badge.svg)](https://igem-ugm.github.io/2020-wiki/)
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
