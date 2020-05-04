@@ -1,9 +1,9 @@
-name: Gatsby Publish
+name: Github Pages
 
 on:
   push:
     branches:
-      - dev
+      - master
 
 jobs:
   build:
