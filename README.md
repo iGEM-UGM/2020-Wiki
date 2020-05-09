@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://igem-ugm.github.io/2020-wiki/">
-    <img alt="Gatsby" src="https://raw.githubusercontent.com/iGEM-UGM/2020-wiki/master/src/images/logo-colorized.png" width="100" />
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/iGEM-UGM/2020-wiki/master/src/images/logo-colorized.png" width="200" />
   </a>
 </p>
 <h1 align="center">
