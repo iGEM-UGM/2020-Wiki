@@ -6,6 +6,9 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "homepage": "https://igem-ugm.github.io/2020-wiki/",
   "dependencies": {
+    "@barba/core": "^2.9.7",
+    "animate.css": "^3.7.2",
+    "animejs": "^3.2.0",
     "gatsby": "^2.20.35",
     "gatsby-image": "^2.3.5",
     "gatsby-plugin-manifest": "^2.3.7",
