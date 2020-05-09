@@ -17,3 +17,28 @@
 <h1 align="center">
   iGEM UGM 2020 Wiki
 </h1>
+
+# Medal Checklist
+## Bronze
+
+- [ ] Competition Deliverables
+- [ ] Attributions
+- [ ] Project Description
+- [ ] Contribution
+
+## Silver
+
+- [ ] Engineering Success
+- [ ] Collaboration
+- [ ] Human Practices
+- [ ] Proposed Implementation
+
+## Gold
+
+- [ ] Integrated Human Practices
+- [ ] Improvement of an Existing Part 
+- [ ] Project Modeling
+- [ ] Proof of Concept
+- [ ] Partnership
+- [ ] Science Communication
+- [ ] Excellence in Another Area
